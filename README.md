@@ -18,7 +18,7 @@ TypeScript · React · Node.js · Disponible immédiatement · Île-de-France
 
 ## Projets en production
 
-**[Shelter](https://play.google.com/store/apps/details?id=com.azulys.shelter)** — Jeu mobile narratif (iOS / Android)  
+**[Shelter](https://play.google.com/store/apps/details?id=com.azulys.shelter)** — Jeu mobile narratif (Android)  
 React Native · Node.js / Express / TypeScript · Prisma · PostgreSQL · Auth JWT + Google Sign-In · AdMob · Google Play  
 → [Backend](https://github.com/cedricauneau-ship-it/ShelterV2-Backend) · [Frontend](https://github.com/cedricauneau-ship-it/ShelterV2-Frontend)
 
