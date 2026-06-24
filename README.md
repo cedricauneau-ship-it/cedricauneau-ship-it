@@ -1,42 +1,40 @@
-# Salut, moi c'est Cédric
+# Cédric Auneau — Développeur Fullstack
 
-Développeur fullstack JavaScript / TypeScript freelance, basé à Fontenay-en-Parisis (95).
+TypeScript · React · Node.js · Disponible immédiatement · Île-de-France
 
-Je crée des sites web pour **associations**, **TPE** et **indépendants** en Île-de-France, avec une approche orientée **forfait clé en main** et **accompagnement long terme**.
-
-Workflow productif intégrant les outils d'IA (Claude, GitHub Copilot) pour livrer plus vite et mieux documenté, sans rogner sur la qualité.
-
-[Mon site](https://www.cedric-auneau.dev) · [Me contacter](mailto:auneau.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cedric-auneau)
+[Portfolio](https://www.cedric-auneau.dev) · [LinkedIn](https://www.linkedin.com/in/cedric-auneau) · [auneau.dev@gmail.com](mailto:auneau.dev@gmail.com)
 
 ---
 
 ## Stack
 
-**Front** · TypeScript · React · Next.js · React Native (Expo) · Redux Toolkit · Sanity
+**Front** · TypeScript · React · Next.js · React Native (Expo) · Redux Toolkit
 
-**Back** · Node.js · Express · Prisma · PostgreSQL · MongoDB · JWT
+**Back** · Node.js · Express · Prisma · PostgreSQL · JWT
 
-**Outils** · Git · Vercel · Jest · Claude · GitHub Copilot
-
----
-
-## Projets
-
-- **[Shelter](https://www.cedric-auneau.dev/projets/shelter)** — Jeu mobile narratif de survie post-apocalyptique. App React Native + API TypeScript Express + Prisma + PostgreSQL. Auth JWT et Google Sign-In, AdMob, parrainage, succès, leaderboard.
-- **[Site du Fontenay-en-Parisis Football Club](https://www.fontenayenparisisfootballclub.fr)** — Site officiel du club de football associatif du Val-d'Oise. Réalisé en Next.js, hébergement Vercel.
+**Outils** · Git · Vercel · Jest · Supertest · CI/CD
 
 ---
 
-## Mes services
+## Projets en production
 
-- **Pack 1 — Site Présence** · 1 500 € HT — Site 4-5 pages, CMS éditable, formulaire de contact, intégration HelloAsso ou autres services tiers, hébergement et nom de domaine inclus.
-- **Pack 2 — Site Engagement** · 2 900 € HT — Pack 1 + intégration HelloAsso (dons / adhésions / billetterie) ou e-commerce léger, agenda, galerie, recrutement bénévoles.
-- **Suivi & maintenance** — 360 € ou 960 € HT / an, selon niveau d'accompagnement.
+**[Shelter](https://play.google.com/store/apps/details?id=com.azulys.shelter)** — Jeu mobile narratif (iOS / Android)  
+React Native · Node.js / Express / TypeScript · Prisma · PostgreSQL · Auth JWT + Google Sign-In · AdMob · Google Play  
+→ [Backend](https://github.com/cedricauneau-ship-it/ShelterV2-Backend) · [Frontend](https://github.com/cedricauneau-ship-it/ShelterV2-Frontend)
 
-Détails et devis : [cedric-auneau.dev](https://www.cedric-auneau.dev)
+**[Fontenay-en-Parisis Football Club](https://www.fontenayenparisisfootballclub.fr)** — Site vitrine associatif  
+Next.js · TypeScript · Vercel · Cloudflare  
+→ [Code](https://github.com/cedricauneau-ship-it/FFC-Frontend-V2)
+
+---
+
+## Recherche
+
+**Mission freelance ou CDI** — développement web/mobile fullstack TypeScript  
+Ouvert aux missions en régie (TJM) et aux forfaits pour associations et TPE.
 
 ---
 
 ## Formation
 
-**Concepteur Développeur d'Applications Web & Mobile** — La Capsule
+**Concepteur Développeur d'Applications Web & Mobile** — La Capsule (2025)
